@@ -1,0 +1,24 @@
+*{
+    background-color: #ffffff
+}
+
+.container{
+    position: absolute;
+    top: 25%;
+    left: 35%;
+}
+
+button{
+    color: #fff;
+    background-color: blue;
+    width: 110px;
+    height: 50px;
+    border-radius:10px;
+    border-color: rgb(152, 152, 247);
+    margin-right: 50px
+}
+input{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
